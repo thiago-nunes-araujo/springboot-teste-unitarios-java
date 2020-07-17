@@ -1,2 +1,2 @@
-# springboot-teste-unitarios-java
-Projeto criado com intuito de aplicar os conceitos de Api (micro-serviço) com Java e Springbobot aplicando teste unitários.
+# springboot-with-test-unitary
+Projeto desenvolvido com intuito de aplicar conceitos de teste unitários em uma aplicação Backend com Springboot
